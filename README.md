@@ -9,6 +9,7 @@ Next.js の App Router のチュートリアル
 https://nextjs.org/learn/dashboard-app  
 
 ## 起動、利用方法
+- Macで動作確認しています。(WSL だとファイルを修正するときに対処が必要かもしれません)  
 - Github からダウンロードしたら以下を実行  
   ```
     # ダウンロードして配置したディレクトリへ
