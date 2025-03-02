@@ -1,0 +1,10 @@
+services:
+  next_js_tutorial:
+    build:
+      context: ./docker/next_js
+    container_name: next_js_tutorial
+    tty: true
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/home/tutorial
